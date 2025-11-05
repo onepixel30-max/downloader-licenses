@@ -1,10 +1,12 @@
 {
   "keys": {
     "ABC-124-XYZ": "2025-12-31",
-    "DEF-456-UVW": "2026-06-30"
+    "DEF-456-UVW": "2026-06-30",
+    "XYZ-789-ABC": "2025-12-31"
   },
   "device_bindings": {
-    "ABC-124-XYZ": "61e75e672a03f10a",
-    "DEF-456-UVW": "9i8j7k6l5m4n3o2p"
+    "ABC-124-XYZ": "616796672a03f10a",
+    "DEF-456-UVW": "9i8j7k6l5m4n3o2p",
+    "XYZ-789-ABC": "61e75e672a03f10a"
   }
 }
